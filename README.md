@@ -4,6 +4,6 @@
 - 🌱 I’m learning python, java, C
 - Current UofT student
 - How to reach me: tianle.wang@mail.utronto.ca
-- Personal Website: [Yorafa's Home - welcome to play with me](http://yorafa.com/)
-- [resumes](https://yorafa.github.io/)
+- Personal Website: [Yorafa's Home - welcome to play with me](https://yorafa.com/)
+- [LeetCode Page](https://leetcode.com/Yorafa/) 
 ---
