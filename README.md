@@ -9,3 +9,7 @@
 - [LeetCode Page](https://leetcode.com/Yorafa/) 
 - [LuoGu Page](https://www.luogu.com.cn/user/708598)
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yorafa)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Yorafa's github stats](https://github-readme-stats.vercel.app/api?username=Yorafa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
