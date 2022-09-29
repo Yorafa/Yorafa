@@ -5,7 +5,8 @@
 - learning golang, vue3, Mysql, PHP
 - Current UofT student
 - How to reach me: tianle.wang@mail.utronto.ca
-- Personal Website: [Yorafa's Home - welcome to play with me](https://yorafa.com/)
+- Personal Website: [Yorafa's Home](https://github.yorafa.com/)
+- Personal Blog: [Yorafa's Home - welcome to play with me (chinese)](https://yorafa.com/)
 - [LeetCode Page](https://leetcode.com/Yorafa/) 
 - [LuoGu Page](https://www.luogu.com.cn/user/708598)
 ---
