@@ -18,7 +18,7 @@
 - **Need A JOB** :cry:
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img width="25%" align="right" src="https://github-readme-stats-plum-three.vercel.app/api/top-langs/?username=Yorafa&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=flase&count_private=true"/>
+  <img width="50%" align="right" src="https://github-readme-stats-plum-three.vercel.app/api/top-langs/?username=Yorafa&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=flase&count_private=true"/>
 </a>
 
 ### Connect with me:
