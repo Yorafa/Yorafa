@@ -11,7 +11,7 @@
 - 🌱 I’m familiar with python, java and C/C++ 's standard library
 - Currently learning ML/SL, React
 - Current UofT student
-- How to reach me: tianle.wang@mail.utronto.ca
+- How to reach me: tianle.wang@mail.utoronto.ca
 - Personal Website: [Yorafa's Home](https://github.yorafa.com/)
 - Personal Blog: [Yorafa's Home - welcome to play with me (chinese)](https://yorafa.com/)
 - [LuoGu Page](https://www.luogu.com.cn/user/708598)
