@@ -12,7 +12,7 @@
 - Currently learning ML/SL, React
 - Current UofT student
 - How to reach me: tianle.wang@mail.utoronto.ca
-- Personal Website: [Yorafa's Home](https://github.yorafa.com/)
+- Personal Website: [Yorafa's Home](https://home.yorafa.com/)
 - Personal Blog: [Yorafa's Home - welcome to play with me (chinese)](https://yorafa.com/)
 - [LuoGu Page](https://www.luogu.com.cn/user/708598)
 - **Need A JOB** :cry:
