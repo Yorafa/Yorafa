@@ -9,7 +9,7 @@
 - 👋 Hi, I’m @Yorafa
 - 👀 I’m interested in AI, CV, Gaming design
 - 🌱 I’m familiar with python, java and C/C++ 's standard library
-- Currently learning ML/SL, React
+- Currently learning ML/SL, DL, React, Django
 - Current UofT student
 - How to reach me: tianle.wang@mail.utoronto.ca
 - Personal Website: [Yorafa's Home](https://home.yorafa.com/)
