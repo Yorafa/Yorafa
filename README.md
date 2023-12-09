@@ -5,10 +5,11 @@
 - 👋 Hi, I’m @Yorafa
 - 👀 I’m interested in Software desgin, Gaming design, Web design
 - 🌱 I’m familiar with python, java and C/C++ 
-- Currently learning ML/SL, DL, React, Django
+- Currently learning NEXT.js, database system
 - UofT Alumni
 - How to reach me: thomasyorafa@gmail.com
-- Personal Website: [Yorafa's Home](https://home.yorafa.com/)
+- Personal Website: [Yorafa's Home](https://yorafa.com/)
+- Navigation Page: [Yorafa](https://home.yorafa.com/)
 - **Need A JOB** :cry:
 
 ### Connect with me:
