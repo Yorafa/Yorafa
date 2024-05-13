@@ -1,6 +1,6 @@
 # Introduction
 
-[![Yorafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yorafa&theme=radical&count_private=true&show_icons=true)](https://github.com/Yorafa/github-readme-stats)
+[![Yorafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yorafa&theme=radical&count_private=true&show_icons=true)](https://github.com/Yorafa)
 
 - 👋 Hi, I’m @Yorafa
 - 👀 I’m interested in Gaming design, Web design
