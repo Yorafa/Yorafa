@@ -13,8 +13,8 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/tianle-wang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tianle wang" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yorafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yorafa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yorafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yorafa" height="30" width="40" /></a>
+<!--<a href="https://codeforces.com/profile/yorafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yorafa" height="30" width="40" /></a> -->
 
 ### Languages and Tools:
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
