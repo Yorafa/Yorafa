@@ -6,7 +6,7 @@
 - 👀 I’m interested in Gaming design, Web design
 - 🌱 I’m familiar with python, java and C/C++ 
 - UofT Alumni
-- How to reach me: thomasyorafa@gmail.com
+- How to reach me: tianle.wang@yorafa.com
 - Personal Website: [Yorafa's Home](https://home.yorafa.com/)
 - **Need A JOB** :cry:
 
