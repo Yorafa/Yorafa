@@ -9,7 +9,7 @@
 - How to reach me: tianle.wang@yorafa.com
 - My Application Navigation: [Yorafa's Home](https://home.yorafa.com/)
 - My blog: [Yorafa's Blog](https://yorafa.com)
-- **Need A JOB** :cry:
+
 
 ### Connect with me:
 
